@@ -1,11 +1,17 @@
 # Python-Programing-GUB-EDGE-Project
 # 🧠 EDGE - Enhanced Development for Global Efficiency
-
+# Live code show 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15T5j5Ej_hGmICGjxowdVvZvb7bLUjiAD?usp=drive_link)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nNn2dOe7BORMHymHx6qVgVx0VjRYFaRz?usp=drive_link)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gj2f9ph7FyL_AGZ-eU-b6HaOdKQUtEtM?usp=drive_link)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XUMdrn0LfFKfXzAIL8IW23oqg-QDi0dN?usp=drive_link)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13D_y_QXLHW6tg0AhB-aGovMO5PV22uAI?usp=drive_link)(https://drive.google.com/drive/folders/1Ins3WjOSxxg2pgPqr6k7xidFt2ppNr8q?usp=drive_link)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13D_y_QXLHW6tg0AhB-aGovMO5PV22uAI?usp=drive_link)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YqPUXGS6ItU5r1nYEWChesPmdS8URcLP?usp=drive_link)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pzA32XkzwBLvMbd8zNLkhSPlhaUCSm-l?usp=drive_link)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B1IJik4ZGnHiqkJgSmKghKVBbIJYKw4Q?usp=drive_link)
+
+# Drive link of this file 
+(https://drive.google.com/drive/folders/1Ins3WjOSxxg2pgPqr6k7xidFt2ppNr8q?usp=drive_link)
 
 **EDGE** is a Python-based project built for process optimization and modular backend development. This notebook-driven implementation is hosted on **Google Colab**, making it accessible, interactive, and easy to run in the cloud without requiring local setup.
 
