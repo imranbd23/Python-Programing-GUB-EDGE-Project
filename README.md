@@ -1,7 +1,7 @@
 # Python-Programing-GUB-EDGE-Project
 # 🧠 EDGE - Enhanced Development for Global Efficiency
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/EDGE/blob/main/EDGE.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/your-username/EDGE/blob/main/EDGE.ipynb](https://drive.google.com/drive/folders/1Ins3WjOSxxg2pgPqr6k7xidFt2ppNr8q?usp=drive_link))
 
 **EDGE** is a Python-based project built for process optimization and modular backend development. This notebook-driven implementation is hosted on **Google Colab**, making it accessible, interactive, and easy to run in the cloud without requiring local setup.
 
